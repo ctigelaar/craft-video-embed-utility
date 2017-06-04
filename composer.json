@@ -1,5 +1,5 @@
 {
-    "name": "ctigelaar/craft-video-embed-utility",
+    "name": "ctigelaar/craft-videoembedutility",
     "description": "Craft CMS plugin providing a Twig filter for embedding video from YouTube and Vimeo URLs",
     "authors": [
         {
