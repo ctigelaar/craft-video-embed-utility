@@ -1,0 +1,14 @@
+{
+    "name": "ctigelaar/craft-video-embed-utility",
+    "description": "Craft CMS plugin providing a Twig filter for embedding video from YouTube and Vimeo URLs",
+    "authors": [
+        {
+            "name": "Staplegun.us",
+            "homepage": "https://github.com/Staplegun-US"
+        }
+    ],
+    "type": "craft-plugin",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
